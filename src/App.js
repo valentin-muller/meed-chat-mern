@@ -10,8 +10,6 @@ function App() {
         <Sidebar />
         <Chat />
       </div>
-
-      {/* Chat component */}
     </div>
   );
 }
