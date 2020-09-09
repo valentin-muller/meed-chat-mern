@@ -37,5 +37,6 @@ Frontend:
 Backend:
 - Node.js
 - Express.js
+- Mongoose
 - MongoDB -> Change Streams -> ?Pusher?
 
